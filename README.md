@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nodejs, MongoDb**
 
-- 💬 Ask me about **Flutter, Nodejs, Devops**
+- 💬 Ask me about **App Development**
 
 - 📫 How to reach me **mohitormohit@gmail.com**
 
